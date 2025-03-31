@@ -5,6 +5,7 @@
 - **_Es una generalización del ordenamiento por inserción y se considera un método de clasificación avanzado._** 
 
 ### **_Características_**
+
 Se basa en la comparación de elementos que están distantes
 La distancia entre comparaciones disminuye a medida que el algoritmo avanza
 Se le conoce como ordenación por disminución de incrementos
