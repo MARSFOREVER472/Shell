@@ -12,6 +12,6 @@
   
 - Se le conoce como ordenación por disminución de incrementos.
   
-Se puede implementar con poco código.
+- Se puede implementar con poco código.
 Es eficiente en términos de memoria.
 Es más rápido que la ordenación por inserción tradicional, especialmente para matrices más grandes.
