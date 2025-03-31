@@ -12,7 +12,7 @@
   
 - **_Se le conoce como ordenación por disminución de incrementos._**
   
-- Se puede implementar con poco código.
+- _Se puede implementar con poco código._
   
 - Es eficiente en términos de memoria.
 
