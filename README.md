@@ -16,4 +16,4 @@
   
 - Es eficiente en términos de memoria.
 
-Es más rápido que la ordenación por inserción tradicional, especialmente para matrices más grandes.
+- Es más rápido que la ordenación por inserción tradicional, especialmente para matrices más grandes.
