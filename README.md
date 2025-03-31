@@ -8,7 +8,7 @@
 
 - **_Se basa en la comparación de elementos que están distantes._**
   
-- La distancia entre comparaciones disminuye a medida que el algoritmo avanza.
+- _La distancia entre comparaciones disminuye a medida que el algoritmo avanza._
   
 - Se le conoce como ordenación por disminución de incrementos.
   
