@@ -10,7 +10,7 @@
   
 - **_La distancia entre comparaciones disminuye a medida que el algoritmo avanza._**
   
-- _Se le conoce como ordenación por disminución de incrementos._
+- **_Se le conoce como ordenación por disminución de incrementos._**
   
 - Se puede implementar con poco código.
   
