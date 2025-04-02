@@ -6,7 +6,7 @@
 
 ### **_Características:_**
 
-- **_Se basa en la comparación de elementos que están distantes._**
+- **_Se basa en la comparación de elementos que estén distantes._**
   
 - **_La distancia entre comparaciones disminuye a medida que el algoritmo avanza._**
   
