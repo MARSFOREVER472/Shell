@@ -8,9 +8,37 @@ using namespace std;
 
 #define largo 50
 
+void ordenamientoShell(int A[], int n)
+{
+    int i, j, inc, temp;
+
+    for (inc = 1; inc < n; inc = inc * 3 + 1)
+    {
+        while (inc > 0)
+        {
+            for (i = inc; i < n; i++)
+            {
+                j = i;
+                temp = A[i];
+
+                while ((j >= inc) && (A[j - inc] > temp))
+                {
+                    A[j] = A[j - inc];
+                    j = j - inc;
+                }
+
+                A[j] = inc;
+            }
+
+            inc /= 2;
+        }
+    }
+
+}
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    // PRÓXIMAMENTE...
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
