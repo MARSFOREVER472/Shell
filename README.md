@@ -2,7 +2,7 @@
 
 - **_Es un algoritmo de ordenamiento que se divide una lista en intervalos y luego los ordena mediante inserción directa._**
   
-- **_Es una generalización del ordenamiento por inserción y que se considera también un método de clasificación avanzado._** 
+- **_Es una generalización del ordenamiento por inserción y que se considera también como un método de clasificación avanzado._** 
 
 ### **_Características:_**
 
